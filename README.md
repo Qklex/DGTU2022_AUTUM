@@ -10,6 +10,8 @@
 
 + **3 - приятной игры**
 
+Уже готовый проект - https://disk.yandex.ru/d/lelJW4xL817DMg
+
 # PiP install PiP
 
 >Наш состав
